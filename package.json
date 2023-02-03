@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-crud",
+  "version": "1.0.0",
+  "description": "basic CRUD operations using mongoose ODM instead of native mongo driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soumya",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.9.0"
+  }
+}
